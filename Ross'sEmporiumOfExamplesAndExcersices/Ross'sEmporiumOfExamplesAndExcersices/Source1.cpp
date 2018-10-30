@@ -1,7 +1,7 @@
 #include <stack>
 #include <iostream>
 
-int main()
+int main2()
 {
 	std::stack<int> s;
 	int value = -1;
@@ -24,6 +24,7 @@ int main()
 	std::cout << std::endl;
 
 	system("pause");
+	return 1;
 }
 
 

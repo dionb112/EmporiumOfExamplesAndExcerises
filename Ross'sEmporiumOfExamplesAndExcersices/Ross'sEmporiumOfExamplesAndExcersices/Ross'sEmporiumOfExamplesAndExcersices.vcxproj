@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{0FDE0E59-39A0-45DA-9EAE-FD6A4620B0DD}</ProjectGuid>
+    <ProjectGuid>{FA45ED8D-7CCC-4CB0-AC5E-FC611083AD05}</ProjectGuid>
     <RootNamespace>RosssEmporiumOfExamplesAndExcersices</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -115,8 +115,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\Player.cpp" />
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\RangeMemberFunctionsDemo.cpp" />
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\SampleTest1.cpp" />
     <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\Source.cpp" />
     <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\Source1.cpp" />
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\STL_List.cpp" />
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\STL_Map.cpp" />
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\vectorz.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

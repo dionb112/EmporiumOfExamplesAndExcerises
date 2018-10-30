@@ -15,10 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\Source.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\Source1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\vectorz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\RangeMemberFunctionsDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\STL_List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\STL_Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Ross%27sEmporiumOfExamplesAndExcersices\Ross%27sEmporiumOfExamplesAndExcersices\SampleTest1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
